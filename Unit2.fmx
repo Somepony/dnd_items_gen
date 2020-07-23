@@ -1,0 +1,23 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = #1054#1087#1080#1089#1072#1085#1080#1077
+  ClientHeight = 745
+  ClientWidth = 1097
+  Position = ScreenCenter
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Anchors = [akLeft, akTop, akRight, akBottom]
+    Size.Width = 1097.000000000000000000
+    Size.Height = 745.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 1093.000000000000000000
+    Viewport.Height = 741.000000000000000000
+  end
+end
